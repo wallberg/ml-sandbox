@@ -25,7 +25,7 @@ dbscan_labels = dbscan.fit_predict(x_scaled)
 df['dbscan_content_duration_clusters'] = dbscan_labels
 
 #plotting Kmeans
-markers = ['o', 's', '^', 'D', 'v', 'P', '*', 'X', '<', '>']
+markers = ['*', 'X', '<', '>', 'o', 's', '^', 'D', 'v', 'P', ]
 
 plt.figure(figsize=(8,16))
 for cluster_id in sorted(df['kmeans_content_duration_clusters']):
@@ -56,6 +56,7 @@ for cluster_id in sorted(df['dbscan_content_duration_clusters']):
         label=f'Cluster {cluster_id}',
         edgecolors='black',
         linewidths=0.5,
+        marker=markers[cluster_id % len(markers)],
     )
 
 plt.xlabel("duration_seconds")
