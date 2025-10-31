@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
@@ -102,23 +103,26 @@ def main():
     print (baseline_model["confusion_matrix"])
     print (baseline_model["classification_report"])
 
-    # # Feature Selection
-    # correlations = {}
-    # for col in x_full.columns:
-    #     if x_full[col].std() == 0:
-    #         corr_val = 0
-    #     else:
-    #         corr_val = np.corrcoef(x_full[col], y)[0, 1]
-    #     correlations[col] = abs(corr_val)
+    # Feature Selection
+    correlations = {}
+    for col in x.columns:
+        if x[col].std() == 0:
+            corr_val = 0
+        else:
+            corr_val = np.corrcoef(x[col], y)[0, 1]
+        correlations[col] = abs(corr_val)
 
-    # ranked_corr = sorted(correlations.items(), key=lambda item: item[1], reverse=True)
-    # top_features = [v[0] for v in ranked_corr[:3]]
+    ranked_corr = sorted(correlations.items(), key=lambda item: item[1], reverse=True)
+    top_features = [v[0] for v in ranked_corr[:3]]
 
-    # x_corr = x_full[top_features]
+    x_corr = x[top_features]
 
-    # baseline_model = train_and_eval_model(x_corr, y, cv, model_name="baseline")
-    # # print(yaml.dump(baseline_model, sort_keys=False))
+    baseline_model = train_and_eval_model(x_corr, y, cv, model_name="baseline")
 
+    print ("BASELINE MODEL RESULTS")
+    print (f"Accuracy: {baseline_model['accuracy']}")
+    print (baseline_model["confusion_matrix"])
+    print (baseline_model["classification_report"])
 
 
 if __name__ == "__main__":
