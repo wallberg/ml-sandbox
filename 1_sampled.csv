@@ -1,0 +1,501 @@
+item_id,file_type,language,is_restricted,ocr_text_extracted,collection_id,subject_tags,file_size_mb,num_pages_or_frames,content_length_tokens,access_count_30d,duration_seconds,upload_year,upload_day_of_year,num_detected_objects
+ITEM-0001502,pdf,it,False,True,COLL-003,"policy,video lecture,machine learning",3.47,164,1597,17,101.9,2025,25,1
+ITEM-0002587,audio,ar,False,True,COLL-004,"digital preservation,linguistics,machine learning",76.35,130,19796,49,1239.76,2017,98,1
+ITEM-0002654,video,en,False,True,COLL-001,"audio interview,training material,metadata quality",71.29,118,15273,49,1158.53,2022,182,1
+ITEM-0001056,pdf,fr,False,True,COLL-008,video lecture,17.72,117,28385,1,86.73,2015,262,1
+ITEM-0000706,text,fa,False,True,COLL-001,poster,17.47,310,29599,2,19.86,2021,112,1
+ITEM-0000107,pdf,en,False,False,COLL-020,poster,7.16,129,9507,15,23.04,2018,116,0
+ITEM-0000590,text,en,False,False,COLL-020,machine learning,16.42,163,28521,20,36.38,2020,197,0
+ITEM-0002469,text,zh,False,True,COLL-017,training material,78.8,11,13069,57,2073.65,2015,189,1
+ITEM-0002414,video,zh,False,True,COLL-010,"digital preservation,accessibility",77.98,9,12853,58,1819.51,2022,15,2
+ITEM-0001601,pdf,en,False,True,COLL-012,"thesis,audio interview",19.86,227,5599,12,31.16,2024,58,0
+ITEM-0002465,text,it,False,True,COLL-017,training material,43.87,42,12698,43,1221.88,2016,15,0
+ITEM-0000229,pdf,en,False,False,COLL-018,"training material,thesis,accessibility",19.38,203,27189,12,61.62,2024,73,1
+ITEM-0000916,pdf,fa,False,True,COLL-011,"linguistics,digital preservation",4.89,196,1050,12,59.38,2016,278,1
+ITEM-0000795,text,ar,False,True,COLL-012,"video lecture,metadata quality",11.14,99,19316,12,93.89,2020,331,0
+ITEM-0003022,image,fa,False,True,COLL-016,"digital preservation,linguistics,metadata quality",77.44,118,11277,47,894.9,2023,125,1
+ITEM-0003544,audio,en,True,True,COLL-017,"digital preservation,training material,linguistics",229.15,9,37654,80,4439.36,2015,229,3
+ITEM-0001074,text,fr,False,True,COLL-007,"metadata quality,accessibility,linguistics",17.31,309,16254,5,106.77,2021,261,0
+ITEM-0003352,video,ar,False,False,COLL-019,metadata quality,56.24,129,5836,40,2295.13,2015,133,1
+ITEM-0001745,text,en,False,True,COLL-005,"thesis,digital preservation",14.12,157,9366,6,94.34,2018,89,1
+ITEM-0001085,text,it,False,True,COLL-006,"machine learning,audio interview",6.16,129,27505,10,51.21,2017,85,0
+ITEM-0000927,text,fa,False,True,COLL-006,"policy,digital preservation,linguistics",9.8,129,26097,5,116.69,2020,318,1
+ITEM-0003050,audio,de,False,True,COLL-017,"accessibility,metadata quality,linguistics",71.72,124,16930,42,1074.21,2025,239,2
+ITEM-0001118,text,fr,False,True,COLL-020,"audio interview,accessibility",14.51,258,22153,12,90.2,2020,235,0
+ITEM-0000643,text,es,False,True,COLL-013,policy,5.35,153,25827,9,69.17,2024,246,1
+ITEM-0004768,audio,es,False,True,COLL-003,"digital preservation,audio interview,thesis",257.76,30,28017,100,9533.26,2015,361,1
+ITEM-0000502,image,fr,True,True,COLL-003,"linguistics,machine learning",3.37,300,613,14,12.96,2017,215,1
+ITEM-0004067,audio,ar,False,True,COLL-014,digital preservation,152.86,27,37408,92,9625.26,2018,23,1
+ITEM-0000334,image,it,False,True,COLL-015,"policy,poster,machine learning",16.16,178,23838,8,105.13,2019,84,1
+ITEM-0004685,video,ar,False,True,COLL-009,"metadata quality,training material",122.56,42,36637,90,13194.99,2025,92,1
+ITEM-0000487,text,it,False,True,COLL-006,audio interview,14.79,347,10336,0,101.43,2016,234,0
+ITEM-0001963,pdf,fa,False,True,COLL-004,thesis,6.56,365,28629,1,85.47,2025,106,0
+ITEM-0000394,pdf,fa,False,True,COLL-013,"linguistics,machine learning,thesis",10.74,283,19798,1,62.48,2024,309,0
+ITEM-0004843,video,ar,False,True,COLL-013,audio interview,421.33,46,21642,82,8891.64,2021,159,1
+ITEM-0004867,video,it,False,False,COLL-014,"thesis,metadata quality,machine learning",393.56,19,31244,82,8937.58,2019,340,2
+ITEM-0001756,image,it,False,True,COLL-009,"accessibility,audio interview,training material",12.1,317,8423,20,70.34,2021,213,0
+ITEM-0002516,pdf,en,False,True,COLL-016,policy,63.15,108,16350,41,1740.16,2019,28,2
+ITEM-0003586,video,it,False,True,COLL-011,"machine learning,training material",203.05,3,26352,98,9667.67,2019,141,2
+ITEM-0004316,audio,de,False,True,COLL-006,"audio interview,metadata quality,poster",407.83,35,23880,98,10283.83,2016,319,3
+ITEM-0004967,video,es,True,True,COLL-007,metadata quality,143.76,44,33076,83,10444.34,2023,203,2
+ITEM-0002100,pdf,zh,False,True,COLL-019,"thesis,audio interview",40.73,156,17219,43,769.19,2022,39,1
+ITEM-0003600,video,zh,False,True,COLL-007,linguistics,342.2,21,34259,82,10975.3,2021,24,2
+ITEM-0004122,audio,es,False,True,COLL-002,digital preservation,326.34,11,20895,84,2766.51,2023,14,2
+ITEM-0000030,image,zh,True,True,COLL-012,"video lecture,metadata quality,training material",8.29,109,5904,17,39.74,2017,1,1
+ITEM-0000066,image,it,False,True,COLL-018,"policy,video lecture",14.66,300,26624,18,69.59,2020,4,0
+ITEM-0000839,pdf,it,False,True,COLL-006,"machine learning,digital preservation",16.02,259,7670,10,37.66,2020,243,1
+ITEM-0003907,video,fr,False,True,COLL-011,linguistics,283.8,48,25466,94,10698.99,2016,152,1
+ITEM-0003774,audio,de,False,True,COLL-003,digital preservation,129.9,18,37647,86,4758.57,2023,40,1
+ITEM-0004636,audio,es,False,True,COLL-003,"thesis,policy,machine learning",385.89,40,39415,93,11426.93,2023,176,3
+ITEM-0003162,image,es,False,True,COLL-014,training material,61.25,42,18032,50,760.44,2016,92,1
+ITEM-0002660,audio,fa,False,True,COLL-004,policy,60.47,26,8054,49,752.26,2025,125,1
+ITEM-0004616,video,es,False,True,COLL-002,training material,472.2,31,35446,91,11136.25,2020,25,3
+ITEM-0004629,audio,en,True,True,COLL-012,"poster,digital preservation,linguistics",268.04,16,37920,90,11212.51,2018,183,3
+ITEM-0002452,video,en,False,True,COLL-011,"machine learning,metadata quality,digital preservation",56.99,95,13273,50,800.12,2024,73,0
+ITEM-0002847,audio,fa,False,True,COLL-017,"poster,training material",45.15,150,11039,44,1774.4,2024,177,1
+ITEM-0001145,text,en,False,True,COLL-019,"accessibility,policy,metadata quality",15.51,352,28563,1,54.59,2021,15,1
+ITEM-0003079,text,fr,False,False,COLL-018,"poster,digital preservation,linguistics",68.63,14,10507,51,273.78,2019,220,0
+ITEM-0001104,text,de,False,True,COLL-006,poster,16.89,212,24140,4,2.75,2016,339,0
+ITEM-0000169,image,de,False,True,COLL-018,"poster,metadata quality,audio interview",15.35,210,17147,10,109.72,2015,188,1
+ITEM-0001671,pdf,fa,False,True,COLL-018,"machine learning,audio interview,policy",9.25,324,14614,0,19.86,2023,131,1
+ITEM-0002571,audio,de,False,True,COLL-017,machine learning,78.73,19,17397,53,973.59,2021,191,1
+ITEM-0002378,text,fa,True,True,COLL-006,"machine learning,video lecture",56.56,103,9028,52,425.12,2024,235,0
+ITEM-0004396,audio,de,False,True,COLL-014,"metadata quality,policy",451.37,30,21911,86,6257.73,2025,40,1
+ITEM-0004258,video,es,False,True,COLL-007,"thesis,audio interview,machine learning",247.76,6,37059,88,14036.05,2025,230,1
+ITEM-0003863,video,fr,False,True,COLL-018,policy,160.23,47,28936,96,7559.25,2018,52,2
+ITEM-0000024,image,zh,False,True,COLL-002,linguistics,14.98,157,24819,4,32.68,2017,103,1
+ITEM-0002634,image,de,False,False,COLL-015,"linguistics,video lecture,digital preservation",44.48,139,5034,56,326.86,2022,122,2
+ITEM-0003341,text,fr,False,True,COLL-003,linguistics,64.08,62,5055,45,2074.96,2024,267,1
+ITEM-0002216,text,es,False,True,COLL-012,"metadata quality,thesis",73.34,199,10989,40,698.3,2018,341,1
+ITEM-0003683,audio,it,True,True,COLL-018,"video lecture,machine learning",248.79,46,24358,96,8991.39,2023,113,2
+ITEM-0004725,video,es,False,False,COLL-013,"poster,training material,video lecture",316.04,5,16977,94,9859.96,2025,230,2
+ITEM-0001908,text,de,False,True,COLL-019,"digital preservation,audio interview,linguistics",7.28,329,9913,10,52.77,2017,281,1
+ITEM-0000085,image,en,True,True,COLL-013,"linguistics,accessibility",10.32,316,26590,19,5.2,2020,51,1
+ITEM-0000228,image,en,False,False,COLL-005,thesis,6.51,130,7962,8,102.3,2024,98,1
+ITEM-0000297,image,es,False,True,COLL-018,"digital preservation,linguistics",6.24,145,7440,5,118.01,2023,89,0
+ITEM-0001002,image,it,False,True,COLL-010,"machine learning,training material,linguistics",8.38,301,5780,12,9.89,2018,221,0
+ITEM-0002139,text,it,False,True,COLL-015,linguistics,70.27,109,18632,46,1589.32,2019,81,0
+ITEM-0000712,image,fr,False,True,COLL-006,metadata quality,4.04,146,460,5,97.87,2025,211,1
+ITEM-0002802,image,fa,False,True,COLL-002,"accessibility,audio interview,metadata quality",43.67,66,8912,48,1163.62,2020,134,2
+ITEM-0002528,audio,fr,False,False,COLL-004,"video lecture,digital preservation,linguistics",74.38,40,18259,46,2092.9,2025,164,1
+ITEM-0003753,video,en,False,True,COLL-015,"metadata quality,thesis",237.51,45,36945,91,4558.95,2022,51,2
+ITEM-0003322,audio,en,True,True,COLL-005,"policy,machine learning,thesis",45.74,26,14885,46,2537.67,2020,59,1
+ITEM-0003182,pdf,it,False,True,COLL-013,video lecture,40.39,39,11780,45,2375.44,2023,326,2
+ITEM-0004184,audio,ar,False,True,COLL-010,"poster,accessibility",436.36,27,15332,99,11869.31,2017,41,1
+ITEM-0001616,image,fa,False,True,COLL-008,linguistics,3.37,293,872,11,109.39,2023,206,1
+ITEM-0003025,image,es,False,False,COLL-016,"thesis,metadata quality",41.06,149,14511,55,2349.89,2016,307,1
+ITEM-0001414,pdf,es,False,False,COLL-002,"policy,poster,accessibility",18.43,214,23179,10,112.9,2022,202,1
+ITEM-0000764,text,es,False,True,COLL-019,"video lecture,accessibility",19.1,266,19619,15,52.02,2024,55,1
+ITEM-0000656,text,fa,False,True,COLL-012,"accessibility,machine learning",12.29,211,16241,10,44.49,2025,202,0
+ITEM-0004798,video,en,False,False,COLL-003,"linguistics,training material,metadata quality",168.44,44,18819,100,8682.91,2018,271,2
+ITEM-0003850,video,en,True,True,COLL-003,machine learning,267.29,50,38920,87,4498.22,2020,322,3
+ITEM-0004154,video,ar,False,False,COLL-014,machine learning,222.06,8,24042,81,4052.59,2020,197,2
+ITEM-0000469,image,es,False,True,COLL-005,"thesis,training material",7.97,237,16979,14,74.3,2022,98,0
+ITEM-0000158,text,fa,False,True,COLL-014,"metadata quality,policy",7.22,85,6974,2,64.94,2015,130,1
+ITEM-0001296,pdf,en,False,True,COLL-017,machine learning,9.85,286,13228,3,16.42,2015,12,1
+ITEM-0000498,text,it,False,True,COLL-020,"audio interview,policy,thesis",2.65,197,839,4,59.5,2015,337,0
+ITEM-0004741,video,fa,False,False,COLL-004,"policy,audio interview,training material",474.33,9,33000,89,6739.63,2022,52,2
+ITEM-0002941,video,en,False,True,COLL-004,metadata quality,40.09,14,8452,41,2045.57,2019,53,1
+ITEM-0003457,pdf,fa,True,True,COLL-018,"thesis,accessibility,metadata quality",51.81,183,15654,52,2380.8,2017,133,1
+ITEM-0000374,pdf,ar,False,True,COLL-019,poster,5.5,341,18100,9,11.03,2023,86,0
+ITEM-0000080,image,fr,False,True,COLL-016,"metadata quality,audio interview,machine learning",5.08,239,19864,17,16.28,2021,214,1
+ITEM-0001554,text,es,False,True,COLL-009,"machine learning,thesis,audio interview",3.15,150,644,15,14.79,2022,72,0
+ITEM-0001670,text,fa,False,True,COLL-017,"poster,audio interview",6.5,136,21259,8,9.33,2018,5,0
+ITEM-0002132,audio,fa,False,True,COLL-015,"policy,audio interview",65.56,63,4730,55,2081.58,2016,361,0
+ITEM-0004440,audio,en,False,True,COLL-003,"metadata quality,training material,linguistics",205.02,22,39692,95,13881.58,2022,115,3
+ITEM-0000466,text,fr,False,False,COLL-019,policy,7.49,58,7973,7,77.72,2022,184,1
+ITEM-0000249,pdf,fa,False,True,COLL-018,"policy,poster,thesis",2.39,351,947,11,96.98,2021,76,0
+ITEM-0000932,pdf,ar,False,True,COLL-016,policy,4.94,287,1077,18,91.4,2021,8,0
+ITEM-0001336,image,zh,False,True,COLL-013,machine learning,2.52,97,304,5,33.71,2025,78,1
+ITEM-0004525,audio,de,False,True,COLL-004,"metadata quality,digital preservation",355.68,30,23553,94,9914.6,2023,204,3
+ITEM-0001339,text,ar,False,True,COLL-019,"metadata quality,training material,machine learning",14.74,178,22326,5,6.42,2023,91,0
+ITEM-0001407,image,de,False,True,COLL-015,"metadata quality,poster",17.78,51,11456,13,30.42,2018,315,0
+ITEM-0001091,image,fr,False,True,COLL-003,"training material,accessibility",9.76,248,10649,15,25.69,2016,234,0
+ITEM-0004210,audio,fa,False,True,COLL-012,digital preservation,222.16,20,34209,80,6726.96,2023,77,3
+ITEM-0000743,text,es,False,True,COLL-014,"thesis,audio interview,digital preservation",8.75,122,7739,8,76.28,2018,26,0
+ITEM-0002324,video,ar,False,True,COLL-019,audio interview,79.79,159,19770,40,1903.44,2017,15,1
+ITEM-0003602,video,de,False,True,COLL-002,"machine learning,training material,video lecture",235.42,15,38465,88,5319.13,2022,212,3
+ITEM-0002124,pdf,fr,False,True,COLL-001,"training material,policy,video lecture",49.96,92,16795,52,1999.85,2019,184,0
+ITEM-0002095,audio,de,False,True,COLL-009,"training material,policy,digital preservation",77.99,63,11452,60,770.83,2021,326,1
+ITEM-0000241,text,fr,False,True,COLL-012,"digital preservation,accessibility",4.05,163,1352,10,110.52,2025,184,0
+ITEM-0002352,image,fr,False,True,COLL-011,accessibility,45.74,176,18650,41,2551.4,2022,86,2
+ITEM-0001371,pdf,ar,False,True,COLL-002,accessibility,18.86,53,17227,17,110.9,2015,270,1
+ITEM-0001058,pdf,en,True,True,COLL-008,"machine learning,linguistics",16.38,183,29994,14,19.09,2017,250,0
+ITEM-0004817,video,ar,False,True,COLL-005,"video lecture,training material",170.87,5,25872,82,9285.27,2015,32,1
+ITEM-0000200,pdf,de,False,False,COLL-015,"video lecture,accessibility",11.07,329,19462,1,91.2,2019,281,0
+ITEM-0002281,text,it,False,True,COLL-011,audio interview,70.6,105,15196,44,2518.62,2017,71,1
+ITEM-0004750,audio,de,False,True,COLL-010,"digital preservation,poster,machine learning",216.61,30,15810,82,3861.36,2021,95,3
+ITEM-0002221,image,fa,False,False,COLL-009,"machine learning,digital preservation,accessibility",57.77,23,18499,43,405.47,2016,72,1
+ITEM-0004772,video,ar,False,True,COLL-001,"linguistics,video lecture",485.07,18,35378,87,13840.39,2024,281,1
+ITEM-0002820,image,en,False,True,COLL-017,"audio interview,machine learning",53.11,106,14226,45,659.29,2017,313,1
+ITEM-0003151,image,de,False,False,COLL-015,"digital preservation,video lecture",68.53,164,8127,48,2311.08,2019,117,1
+ITEM-0004257,video,en,False,True,COLL-005,video lecture,366.8,9,21799,86,11108.28,2016,29,1
+ITEM-0003108,video,fr,False,True,COLL-005,thesis,75.14,173,8778,55,938.13,2025,209,1
+ITEM-0001974,image,it,False,True,COLL-003,"digital preservation,thesis,metadata quality",13.15,155,24811,1,32.66,2019,211,1
+ITEM-0001376,text,ar,True,True,COLL-018,"poster,metadata quality,thesis",4.44,159,269,9,97.31,2015,146,0
+ITEM-0003969,audio,es,True,True,COLL-001,"metadata quality,poster,thesis",463.31,34,19593,100,11887.69,2018,98,2
+ITEM-0004063,video,fr,True,True,COLL-017,accessibility,237.58,40,33547,97,10140.78,2016,141,3
+ITEM-0004446,audio,zh,False,True,COLL-004,training material,205.04,3,18820,82,9211.81,2018,180,1
+ITEM-0003558,video,ar,True,True,COLL-013,"digital preservation,linguistics,policy",402.4,48,23179,83,5845.86,2025,256,2
+ITEM-0000965,text,es,False,True,COLL-017,"video lecture,digital preservation",17.46,282,12039,18,48.68,2021,44,1
+ITEM-0000180,image,zh,False,True,COLL-003,"digital preservation,metadata quality",11.28,349,27272,12,51.82,2015,352,1
+ITEM-0003699,audio,ar,False,True,COLL-003,"linguistics,thesis",239.72,12,34341,99,7102.8,2019,210,3
+ITEM-0003822,video,zh,False,True,COLL-019,"linguistics,video lecture,poster",165.64,50,19420,97,5451.23,2015,9,3
+ITEM-0004879,audio,ar,False,False,COLL-006,policy,168.66,7,31802,86,7660.3,2016,229,3
+ITEM-0003900,video,fa,False,True,COLL-002,video lecture,388.2,48,29967,86,3165.17,2020,72,2
+ITEM-0004488,audio,it,False,True,COLL-006,"audio interview,metadata quality,video lecture",388.54,44,37091,95,13857.5,2024,300,3
+ITEM-0003239,text,es,True,True,COLL-007,"training material,machine learning",44.03,159,11476,59,1692.88,2015,35,1
+ITEM-0002975,image,ar,False,False,COLL-012,"audio interview,video lecture",43.76,60,18624,45,1186.11,2024,262,2
+ITEM-0003581,audio,en,False,True,COLL-005,"machine learning,training material",309.12,30,27629,96,5432.88,2020,254,2
+ITEM-0002888,audio,fr,False,True,COLL-010,"training material,linguistics,digital preservation",67.92,85,9065,43,1911.51,2020,28,0
+ITEM-0002576,pdf,fr,False,True,COLL-020,training material,71.45,74,16233,40,2257.41,2015,252,1
+ITEM-0001420,text,fr,False,True,COLL-011,"poster,metadata quality",14.11,206,25261,0,68.72,2024,51,0
+ITEM-0003908,audio,it,False,True,COLL-007,poster,316.97,26,18517,87,4666.25,2018,285,2
+ITEM-0004674,audio,zh,False,False,COLL-013,"metadata quality,machine learning",233.06,40,27151,97,11898.89,2015,233,2
+ITEM-0004903,video,de,False,True,COLL-019,poster,357.73,13,32926,100,2999.89,2016,358,3
+ITEM-0001861,text,ar,False,True,COLL-011,training material,18.57,203,5777,0,102.18,2021,356,0
+ITEM-0000009,image,zh,False,True,COLL-010,"digital preservation,policy",12.12,55,23128,14,63.49,2022,236,0
+ITEM-0002895,video,fr,False,True,COLL-013,"policy,audio interview,linguistics",79.81,33,10185,44,1317.09,2020,326,2
+ITEM-0002848,text,en,False,True,COLL-002,"thesis,metadata quality",65.1,151,5397,53,2027.98,2025,156,1
+ITEM-0003665,video,it,False,True,COLL-018,"linguistics,thesis,metadata quality",166.57,22,27502,94,9482.53,2022,6,2
+ITEM-0000145,pdf,zh,False,True,COLL-015,"audio interview,policy,thesis",13.69,226,17928,12,107.49,2018,94,0
+ITEM-0002105,image,fa,True,True,COLL-005,training material,59.47,96,15039,47,1069.48,2020,334,2
+ITEM-0003144,image,en,False,False,COLL-013,"poster,accessibility",54.41,89,10956,50,276.4,2021,166,0
+ITEM-0000842,text,fa,False,True,COLL-005,"digital preservation,poster,training material",19.89,279,16631,1,8.85,2022,27,1
+ITEM-0001129,text,zh,False,True,COLL-016,"metadata quality,machine learning,audio interview",13.81,165,13037,19,93.4,2019,317,0
+ITEM-0000152,text,ar,False,True,COLL-001,"linguistics,video lecture",6.81,170,17568,7,0.82,2023,166,1
+ITEM-0003592,audio,fr,False,True,COLL-018,training material,248.82,22,18447,86,11332.38,2018,356,2
+ITEM-0001053,text,fr,False,True,COLL-006,"policy,video lecture,accessibility",3.31,265,1418,0,3.46,2019,49,0
+ITEM-0001591,text,en,False,True,COLL-006,policy,0.72,164,765,13,52.23,2018,183,1
+ITEM-0003009,pdf,zh,False,True,COLL-003,linguistics,67.15,135,11296,52,788.16,2024,278,1
+ITEM-0002030,audio,fa,False,True,COLL-007,"video lecture,metadata quality",65.71,186,6415,56,2337.91,2020,57,1
+ITEM-0003419,video,de,False,True,COLL-010,training material,79.61,137,4133,52,1674.51,2020,297,1
+ITEM-0001808,pdf,es,False,True,COLL-012,"linguistics,metadata quality,video lecture",16.36,300,13071,3,65.95,2019,94,0
+ITEM-0002697,pdf,it,False,True,COLL-015,"poster,video lecture,thesis",65.83,114,6477,53,1300.94,2025,237,1
+ITEM-0003040,audio,ar,False,True,COLL-019,"policy,machine learning,training material",58.35,190,13029,50,644.51,2016,310,1
+ITEM-0000473,image,en,False,True,COLL-008,"linguistics,video lecture,metadata quality",8.62,227,20528,17,111.81,2019,358,1
+ITEM-0003290,video,it,False,True,COLL-003,"video lecture,machine learning,audio interview",50.96,24,19585,51,1188.77,2019,211,2
+ITEM-0004075,audio,de,False,True,COLL-010,"linguistics,policy",224.37,30,37492,94,8697.23,2021,42,1
+ITEM-0003497,text,fr,True,True,COLL-007,policy,61.52,139,18176,57,2627.96,2020,137,2
+ITEM-0000280,image,it,False,True,COLL-006,"metadata quality,video lecture,machine learning",14.08,103,10223,1,117.79,2025,80,1
+ITEM-0001742,text,fa,False,True,COLL-007,"poster,policy",8.26,347,18258,9,101.71,2019,299,0
+ITEM-0004625,video,en,False,True,COLL-003,"accessibility,poster,thesis",268.99,30,33226,96,10964.89,2019,90,1
+ITEM-0002887,audio,it,True,False,COLL-010,"metadata quality,policy,audio interview",50.65,49,19217,59,1338.14,2018,230,1
+ITEM-0001942,pdf,es,False,True,COLL-001,linguistics,19.85,122,5545,20,27.95,2015,74,0
+ITEM-0000101,text,es,False,False,COLL-003,"poster,training material,metadata quality",7.36,69,19808,2,37.25,2019,50,0
+ITEM-0002805,text,de,True,True,COLL-009,digital preservation,54.0,47,18752,40,384.13,2015,10,1
+ITEM-0003571,video,es,False,True,COLL-015,"machine learning,digital preservation",220.65,22,17358,87,6743.09,2015,87,2
+ITEM-0003685,video,zh,False,True,COLL-007,"metadata quality,linguistics",179.34,39,31677,95,12356.01,2016,332,2
+ITEM-0003662,audio,fr,False,True,COLL-009,policy,475.97,5,17006,98,9042.25,2021,316,1
+ITEM-0000531,pdf,ar,False,True,COLL-003,policy,4.02,170,636,4,3.45,2025,64,1
+ITEM-0001887,text,de,False,True,COLL-011,"accessibility,video lecture,thesis",7.91,324,20687,6,15.22,2016,59,1
+ITEM-0000682,pdf,ar,False,True,COLL-005,audio interview,2.93,83,933,3,82.08,2022,66,1
+ITEM-0003795,video,ar,False,True,COLL-019,"training material,digital preservation",408.97,17,32759,83,4710.48,2017,109,3
+ITEM-0003945,video,ar,False,True,COLL-015,accessibility,383.04,37,15099,91,11251.77,2024,147,2
+ITEM-0004667,video,zh,False,True,COLL-016,thesis,420.62,21,23972,92,12044.2,2016,273,3
+ITEM-0002019,pdf,en,False,True,COLL-011,"digital preservation,training material",56.19,145,6041,41,787.22,2017,94,2
+ITEM-0001097,image,fa,False,True,COLL-007,"digital preservation,audio interview,thesis",18.19,148,15038,18,22.95,2020,295,1
+ITEM-0000830,pdf,fr,False,True,COLL-008,linguistics,4.01,115,1113,8,31.14,2022,25,0
+ITEM-0002806,image,de,False,True,COLL-006,training material,76.41,163,19210,55,545.85,2019,242,2
+ITEM-0003830,audio,de,False,True,COLL-018,"policy,audio interview",267.81,6,27055,90,12570.24,2015,138,1
+ITEM-0004382,video,fa,False,True,COLL-010,linguistics,484.97,44,25448,87,4048.95,2018,22,1
+ITEM-0003892,video,fr,False,True,COLL-011,video lecture,474.67,47,36666,93,10432.97,2020,123,3
+ITEM-0000765,image,ar,False,True,COLL-011,"digital preservation,video lecture",9.26,350,13292,1,114.97,2018,107,1
+ITEM-0002768,audio,es,False,True,COLL-010,"poster,accessibility",74.0,135,7583,56,735.22,2016,101,1
+ITEM-0004329,video,en,False,True,COLL-007,thesis,165.85,50,18945,97,8313.85,2022,339,2
+ITEM-0003296,pdf,fa,False,True,COLL-015,video lecture,44.46,17,18067,41,1355.83,2019,170,1
+ITEM-0002195,image,it,False,True,COLL-014,video lecture,71.78,101,5628,40,1866.68,2022,260,1
+ITEM-0002358,image,ar,False,True,COLL-020,"poster,metadata quality,digital preservation",48.16,64,15958,49,2031.82,2023,360,1
+ITEM-0003426,pdf,fa,False,True,COLL-018,"thesis,training material",56.13,193,11203,53,1168.48,2019,224,2
+ITEM-0003980,audio,es,False,True,COLL-006,policy,291.01,15,18573,100,13602.12,2015,31,1
+ITEM-0000912,text,ar,True,True,COLL-017,"audio interview,linguistics",14.11,388,6057,12,30.68,2022,30,0
+ITEM-0003146,video,zh,False,True,COLL-015,"training material,accessibility,policy",52.55,30,12800,50,148.83,2021,284,2
+ITEM-0001000,text,en,False,False,COLL-019,training material,5.3,146,21081,4,28.73,2015,171,1
+ITEM-0003654,audio,de,False,True,COLL-003,"metadata quality,linguistics,policy",466.43,37,21521,98,5096.76,2022,11,1
+ITEM-0002484,audio,ar,False,True,COLL-007,"linguistics,audio interview",62.8,173,10568,41,2442.35,2015,133,1
+ITEM-0004077,video,fr,False,False,COLL-003,"audio interview,thesis,machine learning",499.19,8,22063,85,13716.64,2015,323,3
+ITEM-0002371,video,ar,False,True,COLL-019,"digital preservation,linguistics",67.74,171,18340,57,617.16,2017,266,0
+ITEM-0004839,video,zh,False,True,COLL-005,"video lecture,training material,accessibility",446.07,5,15887,95,4341.72,2017,315,2
+ITEM-0000034,pdf,fr,True,True,COLL-016,"accessibility,policy,metadata quality",13.45,170,29613,19,40.22,2017,190,1
+ITEM-0003790,audio,en,False,True,COLL-011,"metadata quality,accessibility,policy",210.75,35,33498,93,12652.14,2023,19,3
+ITEM-0001021,pdf,de,False,False,COLL-013,"metadata quality,digital preservation,policy",2.62,369,1952,20,54.28,2015,209,1
+ITEM-0001648,image,es,False,True,COLL-015,thesis,15.61,154,23558,8,76.91,2018,305,1
+ITEM-0000734,image,fr,False,True,COLL-020,"training material,video lecture,policy",2.32,398,1753,7,106.13,2023,228,0
+ITEM-0004583,video,it,False,True,COLL-020,policy,439.35,34,39794,99,10926.65,2020,68,1
+ITEM-0003275,text,fr,False,True,COLL-001,"poster,training material",66.75,70,6937,45,1264.96,2022,134,2
+ITEM-0001621,pdf,en,False,True,COLL-017,"accessibility,video lecture",8.75,233,6201,14,56.23,2019,348,0
+ITEM-0003136,text,ar,False,False,COLL-017,thesis,57.58,8,4249,55,2396.42,2025,90,1
+ITEM-0002690,text,de,True,False,COLL-017,"machine learning,metadata quality,linguistics",77.84,163,11298,43,1307.43,2017,79,0
+ITEM-0002708,pdf,fr,False,True,COLL-016,"accessibility,audio interview",73.3,133,10138,50,777.81,2019,297,1
+ITEM-0000298,text,en,False,True,COLL-010,"poster,training material",11.89,129,20280,8,0.68,2016,265,0
+ITEM-0002340,audio,en,False,False,COLL-011,"video lecture,audio interview",53.78,84,4371,54,2500.77,2016,304,2
+ITEM-0000654,text,es,False,True,COLL-016,"linguistics,accessibility",2.63,93,700,20,19.94,2016,146,1
+ITEM-0003775,video,es,False,True,COLL-002,"machine learning,policy,metadata quality",465.46,22,34511,99,8010.42,2018,243,2
+ITEM-0001256,text,de,True,True,COLL-020,linguistics,0.8,398,1683,10,90.72,2024,92,1
+ITEM-0004521,audio,fa,False,True,COLL-015,"training material,digital preservation,thesis",294.87,16,23953,84,11967.68,2019,216,3
+ITEM-0000231,text,es,True,True,COLL-006,"metadata quality,linguistics,policy",0.93,277,1422,2,23.73,2016,12,0
+ITEM-0003277,pdf,zh,False,True,COLL-019,"linguistics,thesis,training material",64.81,54,17669,59,1241.42,2021,126,1
+ITEM-0003231,text,de,False,True,COLL-017,"thesis,accessibility,metadata quality",79.03,76,4128,41,452.12,2024,33,0
+ITEM-0000692,pdf,fa,False,True,COLL-017,metadata quality,2.59,255,481,11,106.82,2015,37,1
+ITEM-0002755,text,ar,False,True,COLL-011,"poster,digital preservation",67.2,137,7446,58,1755.16,2020,245,1
+ITEM-0004864,audio,it,True,True,COLL-009,digital preservation,319.35,23,38338,99,12070.05,2016,139,2
+ITEM-0000970,text,it,False,True,COLL-010,accessibility,1.45,317,1945,12,35.58,2025,8,1
+ITEM-0000634,pdf,ar,False,True,COLL-011,metadata quality,12.68,111,19020,17,47.41,2017,145,0
+ITEM-0004093,audio,ar,False,True,COLL-015,"poster,linguistics,machine learning",176.26,3,31005,91,7966.22,2023,107,3
+ITEM-0004078,video,fr,False,True,COLL-008,"poster,machine learning",224.13,30,33582,89,6316.87,2022,11,3
+ITEM-0001322,pdf,en,False,True,COLL-017,metadata quality,2.61,50,934,6,57.01,2017,34,1
+ITEM-0001832,pdf,es,False,False,COLL-017,"thesis,policy,accessibility",12.51,262,7528,17,94.48,2018,356,0
+ITEM-0002179,image,fr,False,True,COLL-003,video lecture,75.81,83,10443,49,2561.46,2015,323,0
+ITEM-0001418,pdf,ar,False,True,COLL-019,"audio interview,metadata quality",6.95,187,28334,14,48.17,2025,226,1
+ITEM-0001783,text,de,False,True,COLL-019,video lecture,6.62,326,22846,18,62.98,2024,166,0
+ITEM-0004716,video,ar,False,False,COLL-012,"accessibility,policy,thesis",149.92,23,29383,85,13799.14,2025,239,2
+ITEM-0004702,video,fa,False,True,COLL-016,"thesis,accessibility",197.1,17,30616,90,10379.61,2021,236,3
+ITEM-0004119,video,ar,False,False,COLL-009,"metadata quality,machine learning",363.82,48,32420,95,9995.26,2019,301,3
+ITEM-0001653,pdf,de,False,True,COLL-011,"training material,accessibility,digital preservation",5.59,178,17267,19,116.86,2016,264,0
+ITEM-0001484,image,de,False,False,COLL-011,"thesis,audio interview",9.24,253,10952,8,74.87,2022,43,1
+ITEM-0002276,image,en,False,True,COLL-019,"video lecture,training material",63.19,137,14014,56,659.99,2025,258,1
+ITEM-0000878,text,de,True,True,COLL-004,"audio interview,training material",17.59,55,10865,6,45.89,2019,350,0
+ITEM-0003526,video,fa,False,True,COLL-004,"digital preservation,metadata quality,training material",464.54,22,24895,97,11504.25,2019,44,3
+ITEM-0002017,audio,fr,False,False,COLL-017,"video lecture,poster,audio interview",53.19,92,7345,40,1280.4,2021,174,0
+ITEM-0000427,text,fa,False,True,COLL-006,"digital preservation,thesis",17.38,251,24338,7,51.81,2022,359,1
+ITEM-0000627,text,fa,False,True,COLL-012,accessibility,5.84,84,26845,20,64.53,2025,70,0
+ITEM-0001590,pdf,fa,True,True,COLL-001,"audio interview,training material,video lecture",2.19,139,1627,2,86.81,2025,51,0
+ITEM-0002224,image,fr,False,True,COLL-012,metadata quality,54.41,19,16404,40,2381.2,2021,337,1
+ITEM-0002218,image,fa,False,True,COLL-018,"linguistics,poster",41.5,117,8602,49,175.0,2025,241,1
+ITEM-0004484,audio,de,False,True,COLL-011,"accessibility,training material,linguistics",357.95,4,22555,87,4991.5,2024,58,2
+ITEM-0001486,image,zh,False,True,COLL-014,machine learning,3.26,238,1439,19,16.06,2016,254,0
+ITEM-0001740,pdf,de,False,True,COLL-015,"audio interview,machine learning,metadata quality",10.77,141,9225,18,7.42,2018,142,1
+ITEM-0002481,pdf,en,False,True,COLL-005,training material,40.72,200,18084,52,1113.29,2019,187,1
+ITEM-0002585,pdf,ar,False,True,COLL-017,"policy,linguistics",74.89,175,10655,44,1408.95,2020,335,0
+ITEM-0002894,video,de,False,True,COLL-007,audio interview,74.54,140,17979,50,1983.97,2016,182,2
+ITEM-0000150,pdf,es,False,True,COLL-009,"digital preservation,machine learning,video lecture",9.36,118,21184,20,65.2,2018,22,1
+ITEM-0000677,image,en,False,True,COLL-017,"linguistics,training material",19.61,137,22839,16,35.83,2025,219,1
+ITEM-0001262,text,fa,False,True,COLL-015,"audio interview,digital preservation",17.86,263,19029,10,66.89,2025,261,0
+ITEM-0004918,audio,es,True,True,COLL-011,"poster,digital preservation,video lecture",367.86,28,17200,92,11008.88,2021,46,1
+ITEM-0000013,text,fa,False,True,COLL-015,"policy,accessibility,thesis",10.79,326,11940,19,50.78,2022,364,0
+ITEM-0001834,image,zh,False,True,COLL-004,"metadata quality,thesis",10.96,59,23149,13,97.74,2019,123,0
+ITEM-0003249,image,en,False,True,COLL-014,"poster,audio interview",53.36,161,6859,53,1156.9,2021,154,0
+ITEM-0001492,text,ar,False,False,COLL-013,"metadata quality,audio interview",3.96,276,1119,16,109.87,2017,271,1
+ITEM-0002728,video,ar,False,True,COLL-008,"thesis,video lecture,machine learning",72.62,43,6996,48,1196.05,2016,20,0
+ITEM-0003687,video,zh,False,True,COLL-008,"thesis,accessibility,training material",364.95,19,30192,89,12336.46,2019,250,3
+ITEM-0001425,text,it,True,True,COLL-006,"linguistics,machine learning,training material",4.58,271,460,8,88.69,2017,333,1
+ITEM-0004606,video,fa,False,False,COLL-013,"linguistics,poster,audio interview",366.59,15,35549,84,14271.76,2023,286,1
+ITEM-0004596,audio,it,False,False,COLL-012,"linguistics,training material",350.27,38,36532,91,13096.51,2024,206,3
+ITEM-0000732,pdf,ar,False,True,COLL-005,"linguistics,accessibility,video lecture",2.32,194,830,9,1.02,2020,223,1
+ITEM-0001232,text,fa,False,True,COLL-012,training material,12.18,279,28406,12,19.48,2023,52,0
+ITEM-0001635,pdf,zh,False,True,COLL-014,"digital preservation,audio interview",8.3,225,6289,6,53.48,2025,203,0
+ITEM-0003937,video,fr,False,False,COLL-007,"training material,video lecture",495.85,45,32409,90,13534.4,2023,269,2
+ITEM-0001211,text,it,False,True,COLL-005,"thesis,digital preservation",12.97,199,22669,18,34.42,2017,217,0
+ITEM-0003269,image,es,False,True,COLL-017,"audio interview,thesis,linguistics",60.63,98,14539,42,124.55,2021,118,1
+ITEM-0001935,text,fr,False,True,COLL-014,"policy,training material",14.71,132,25967,12,105.49,2025,134,1
+ITEM-0000554,image,de,False,True,COLL-020,"linguistics,policy,digital preservation",0.91,226,1061,9,87.15,2017,220,1
+ITEM-0000492,pdf,fr,False,True,COLL-007,accessibility,15.39,64,14983,10,20.66,2017,180,0
+ITEM-0002963,text,fr,False,True,COLL-009,"machine learning,training material",43.08,115,17181,44,2541.35,2017,286,1
+ITEM-0002330,audio,zh,False,False,COLL-011,"metadata quality,linguistics,thesis",76.16,106,4778,57,2076.4,2015,318,1
+ITEM-0002196,pdf,fr,False,False,COLL-010,"video lecture,machine learning",51.33,31,4206,55,1857.11,2017,345,0
+ITEM-0003065,text,it,False,True,COLL-011,"digital preservation,audio interview,linguistics",59.4,53,13878,53,468.4,2024,23,2
+ITEM-0000658,text,en,False,False,COLL-011,"policy,thesis,linguistics",13.88,146,26634,15,61.79,2022,57,0
+ITEM-0002375,video,zh,True,True,COLL-003,machine learning,60.76,75,17100,53,1206.42,2019,304,2
+ITEM-0002226,audio,fa,False,False,COLL-008,"digital preservation,policy,metadata quality",59.81,196,7212,44,2517.06,2024,83,2
+ITEM-0004265,audio,es,True,True,COLL-004,linguistics,361.06,32,18061,83,11214.04,2024,249,3
+ITEM-0001171,pdf,it,False,False,COLL-016,"audio interview,digital preservation",15.82,228,19890,16,7.84,2022,82,1
+ITEM-0000133,pdf,it,False,True,COLL-005,machine learning,19.52,337,21874,4,91.28,2018,212,0
+ITEM-0000472,text,es,False,True,COLL-007,"linguistics,machine learning,audio interview",2.2,89,690,12,107.75,2016,310,0
+ITEM-0003226,text,ar,False,True,COLL-002,"machine learning,video lecture",57.92,56,14022,56,1320.91,2021,132,0
+ITEM-0001406,pdf,de,False,True,COLL-005,"accessibility,metadata quality,video lecture",17.12,233,21319,4,86.03,2022,292,0
+ITEM-0002877,image,fa,False,True,COLL-005,thesis,62.18,152,5758,48,389.96,2018,207,2
+ITEM-0004505,video,fr,False,True,COLL-002,thesis,487.46,23,27443,89,3032.42,2021,60,2
+ITEM-0004693,video,it,False,True,COLL-017,poster,305.86,2,32960,86,13565.14,2025,227,1
+ITEM-0002827,video,en,False,True,COLL-003,poster,47.23,55,19041,40,1746.59,2017,181,0
+ITEM-0000288,pdf,ar,False,True,COLL-019,policy,12.41,160,17874,6,14.49,2024,91,1
+ITEM-0001870,pdf,en,False,True,COLL-005,"accessibility,video lecture",5.19,158,10705,4,108.11,2020,273,1
+ITEM-0003115,image,it,False,True,COLL-016,accessibility,52.26,184,8382,55,740.35,2019,60,0
+ITEM-0003626,video,de,False,True,COLL-006,"digital preservation,audio interview",390.27,35,16532,97,10144.37,2020,23,3
+ITEM-0002313,pdf,ar,False,True,COLL-013,"training material,accessibility,audio interview",52.81,122,17243,55,2098.4,2021,261,1
+ITEM-0004924,video,fa,False,True,COLL-008,"digital preservation,audio interview,metadata quality",255.87,8,29667,96,7286.75,2015,229,1
+ITEM-0001619,image,ar,False,True,COLL-004,"video lecture,audio interview",15.52,100,15797,14,108.91,2017,229,0
+ITEM-0000995,text,es,False,True,COLL-020,training material,5.58,374,26208,6,27.2,2018,296,0
+ITEM-0001804,pdf,ar,False,False,COLL-009,machine learning,12.2,272,18561,12,118.79,2015,7,0
+ITEM-0002643,pdf,it,False,True,COLL-017,"training material,poster,linguistics",63.87,182,18100,51,1212.02,2016,170,1
+ITEM-0004803,audio,es,False,True,COLL-008,training material,359.2,44,33354,84,13787.14,2017,25,3
+ITEM-0003536,audio,de,False,False,COLL-013,training material,194.6,49,16171,81,8627.0,2019,255,2
+ITEM-0004832,video,zh,False,True,COLL-002,thesis,498.84,6,22068,83,7435.28,2023,47,2
+ITEM-0003912,video,zh,False,True,COLL-017,"video lecture,policy",418.0,26,24281,80,4897.6,2023,1,1
+ITEM-0002108,pdf,en,False,True,COLL-008,"linguistics,metadata quality",57.67,138,8391,42,2572.79,2017,72,0
+ITEM-0003045,image,de,True,True,COLL-017,metadata quality,74.83,14,13279,53,1896.3,2019,63,2
+ITEM-0000417,image,en,False,True,COLL-014,"digital preservation,poster",6.57,116,6662,10,64.87,2020,103,0
+ITEM-0000978,pdf,es,False,True,COLL-019,"poster,metadata quality,linguistics",12.33,352,8532,12,5.05,2021,166,0
+ITEM-0002418,text,ar,True,True,COLL-017,"linguistics,machine learning",78.56,180,15156,51,2130.79,2015,123,2
+ITEM-0000506,image,it,False,False,COLL-017,metadata quality,14.46,395,23640,15,91.68,2022,147,1
+ITEM-0004153,audio,de,False,True,COLL-006,"digital preservation,thesis,poster",211.3,10,20912,85,4928.58,2024,183,2
+ITEM-0004256,video,ar,False,True,COLL-003,"metadata quality,thesis",229.32,46,19918,84,3995.86,2019,239,3
+ITEM-0003942,video,en,False,True,COLL-012,"policy,training material",199.62,36,27389,98,4352.27,2020,227,2
+ITEM-0000415,text,ar,False,True,COLL-009,digital preservation,15.29,152,15514,20,107.06,2018,78,0
+ITEM-0004149,video,de,False,True,COLL-002,"linguistics,video lecture,digital preservation",127.56,20,37567,91,3322.47,2015,64,2
+ITEM-0001184,pdf,de,True,True,COLL-014,digital preservation,3.84,265,1501,1,63.96,2015,348,0
+ITEM-0000486,text,fa,False,True,COLL-016,"accessibility,video lecture,training material",15.41,356,7186,15,119.32,2021,189,1
+ITEM-0000894,text,fr,False,True,COLL-007,audio interview,7.0,122,15134,1,116.44,2020,53,1
+ITEM-0000806,text,fr,False,False,COLL-017,"digital preservation,video lecture",18.51,297,26139,2,109.94,2025,290,1
+ITEM-0000556,pdf,de,False,False,COLL-012,"video lecture,digital preservation",4.39,262,1725,19,59.06,2018,148,1
+ITEM-0003826,video,es,True,True,COLL-004,"training material,digital preservation,policy",460.33,24,20472,82,13355.35,2021,346,2
+ITEM-0001198,image,es,False,False,COLL-001,"linguistics,audio interview",1.76,112,2000,8,96.24,2017,305,1
+ITEM-0004254,audio,es,False,True,COLL-017,video lecture,416.72,24,38541,83,9071.15,2017,222,1
+ITEM-0004059,audio,de,False,True,COLL-008,poster,492.99,13,19822,81,8136.96,2023,312,1
+ITEM-0001294,image,zh,True,True,COLL-001,"video lecture,metadata quality,policy",19.08,373,27428,5,99.33,2017,178,0
+ITEM-0002222,image,fa,False,True,COLL-008,"linguistics,training material,audio interview",50.72,96,19920,49,342.22,2024,192,1
+ITEM-0003505,audio,zh,False,True,COLL-018,accessibility,191.1,40,31646,99,11834.76,2023,71,3
+ITEM-0003655,video,fa,False,True,COLL-009,"thesis,poster,audio interview",287.43,24,37220,80,10006.3,2015,297,1
+ITEM-0004759,audio,ar,False,True,COLL-008,"metadata quality,video lecture",483.52,49,17475,86,7642.88,2019,179,2
+ITEM-0003007,video,ar,False,True,COLL-008,"machine learning,poster,video lecture",56.2,106,13389,47,396.88,2024,239,0
+ITEM-0002094,image,it,False,False,COLL-002,accessibility,56.2,93,5844,47,890.02,2019,14,0
+ITEM-0002188,image,fr,False,True,COLL-002,policy,79.72,102,13686,60,210.78,2019,179,1
+ITEM-0003037,pdf,zh,False,True,COLL-002,"digital preservation,poster",79.83,90,19236,56,2210.87,2023,318,0
+ITEM-0003919,audio,fr,False,True,COLL-001,linguistics,447.69,31,34182,97,5647.54,2023,148,1
+ITEM-0001273,image,de,False,True,COLL-006,video lecture,9.64,151,12047,2,54.86,2023,303,1
+ITEM-0000291,image,zh,False,True,COLL-011,"training material,thesis,poster",19.29,120,9370,9,54.34,2021,276,1
+ITEM-0004828,video,fr,False,False,COLL-009,metadata quality,349.14,12,37553,92,8812.76,2017,207,2
+ITEM-0000253,text,it,False,True,COLL-006,"metadata quality,digital preservation",11.47,226,22551,3,94.29,2017,351,1
+ITEM-0003246,image,it,False,True,COLL-017,"machine learning,policy",79.04,14,15835,45,1279.92,2022,103,1
+ITEM-0000351,text,fa,False,True,COLL-001,"digital preservation,video lecture,audio interview",6.54,95,12442,11,57.8,2018,166,1
+ITEM-0001188,pdf,de,False,True,COLL-002,"poster,training material,accessibility",9.85,119,29170,20,69.68,2020,296,0
+ITEM-0001962,pdf,de,False,True,COLL-003,"policy,machine learning",11.99,92,12669,1,50.87,2017,255,1
+ITEM-0000423,image,es,False,True,COLL-013,poster,14.92,353,8746,18,100.41,2018,237,1
+ITEM-0000091,pdf,zh,False,True,COLL-011,"machine learning,digital preservation",12.46,386,24955,20,66.81,2015,119,1
+ITEM-0003730,audio,fr,True,True,COLL-010,linguistics,195.06,46,23899,95,8174.64,2016,241,2
+ITEM-0002237,text,en,False,True,COLL-004,"linguistics,metadata quality,thesis",69.09,128,5991,52,2240.62,2015,259,1
+ITEM-0000671,text,fr,False,True,COLL-002,thesis,7.43,110,6719,15,21.56,2021,239,1
+ITEM-0003041,text,en,False,True,COLL-011,"linguistics,policy,digital preservation",66.85,187,9395,49,138.44,2023,211,1
+ITEM-0000027,pdf,fr,False,True,COLL-014,digital preservation,13.51,367,18316,11,93.61,2025,139,0
+ITEM-0000430,image,ar,True,True,COLL-016,"video lecture,accessibility,policy",4.12,171,1120,19,0.89,2019,222,1
+ITEM-0000684,pdf,fr,False,True,COLL-006,"linguistics,training material",7.3,188,23072,18,103.85,2025,20,0
+ITEM-0004464,video,zh,False,True,COLL-005,"training material,thesis",493.15,13,19407,99,4518.35,2021,183,2
+ITEM-0003946,video,it,False,True,COLL-018,linguistics,228.86,28,28891,98,4463.1,2016,231,1
+ITEM-0003524,audio,fa,False,True,COLL-003,"policy,poster,machine learning",265.58,35,16827,90,8825.02,2017,44,2
+ITEM-0001542,pdf,es,True,False,COLL-018,poster,4.31,112,1624,12,2.4,2021,166,0
+ITEM-0002032,video,fa,True,True,COLL-002,"thesis,accessibility",44.2,55,6466,42,1859.6,2019,58,0
+ITEM-0002233,image,es,False,True,COLL-008,machine learning,58.39,196,8134,57,785.44,2022,11,2
+ITEM-0004121,audio,ar,False,True,COLL-007,"accessibility,metadata quality",267.31,25,23616,82,11334.19,2018,276,2
+ITEM-0003236,video,de,False,True,COLL-006,"linguistics,accessibility,metadata quality",67.7,149,4052,52,477.61,2022,148,2
+ITEM-0000255,text,ar,False,True,COLL-003,policy,17.24,118,12469,3,116.7,2023,125,1
+ITEM-0001030,pdf,en,False,True,COLL-009,"metadata quality,video lecture",10.51,300,5768,16,108.51,2025,58,1
+ITEM-0004393,video,es,False,True,COLL-005,audio interview,391.67,47,39845,90,11577.27,2025,226,1
+ITEM-0003801,video,en,False,False,COLL-004,policy,196.77,6,24027,88,5451.0,2025,55,3
+ITEM-0004311,video,it,False,True,COLL-016,"poster,digital preservation,metadata quality",161.34,39,30001,89,12149.25,2017,351,1
+ITEM-0002510,video,es,False,True,COLL-004,"audio interview,training material",42.13,130,14293,42,174.56,2015,184,1
+ITEM-0002293,pdf,en,False,True,COLL-016,digital preservation,69.63,171,10191,45,1611.22,2016,236,2
+ITEM-0001324,image,es,False,True,COLL-009,"training material,poster,linguistics",5.84,290,7070,18,49.97,2025,20,1
+ITEM-0001551,pdf,es,False,True,COLL-009,"accessibility,training material",19.61,264,20945,0,31.69,2019,269,0
+ITEM-0004648,audio,fa,False,False,COLL-017,"policy,audio interview,poster",224.64,8,38476,96,3632.41,2024,183,1
+ITEM-0000316,text,it,False,True,COLL-011,training material,5.65,315,11775,7,5.14,2019,129,1
+ITEM-0001243,text,ar,True,True,COLL-015,linguistics,16.89,217,16445,5,26.87,2015,354,0
+ITEM-0002451,image,it,False,True,COLL-018,audio interview,50.2,143,18359,53,2286.77,2015,309,2
+ITEM-0001579,image,fr,False,True,COLL-016,policy,5.42,346,5758,12,95.8,2019,114,0
+ITEM-0004626,video,ar,False,True,COLL-016,poster,441.1,4,37266,97,5203.39,2015,76,3
+ITEM-0003117,video,zh,False,True,COLL-012,poster,40.74,106,14180,43,1457.32,2021,153,2
+ITEM-0000070,image,es,False,True,COLL-001,video lecture,5.08,96,29470,9,119.69,2016,39,1
+ITEM-0000860,text,fr,False,False,COLL-003,accessibility,15.56,113,29573,7,4.05,2022,128,1
+ITEM-0002754,video,fa,False,True,COLL-008,"linguistics,machine learning",78.04,82,9090,54,1424.91,2019,305,1
+ITEM-0001633,image,en,True,False,COLL-009,linguistics,4.54,142,1940,5,22.46,2025,284,1
+ITEM-0001651,image,de,False,True,COLL-011,audio interview,17.55,104,10446,8,7.33,2018,354,0
+ITEM-0003861,video,fr,False,True,COLL-011,"training material,policy",231.87,27,19532,88,10314.92,2017,273,1
+ITEM-0003107,text,zh,False,True,COLL-003,audio interview,74.07,76,18255,42,437.27,2018,15,0
+ITEM-0001075,image,fr,False,True,COLL-011,"accessibility,video lecture",17.67,103,22025,16,65.28,2017,313,0
+ITEM-0004002,audio,de,True,True,COLL-001,"video lecture,accessibility",472.66,18,27621,89,11164.51,2018,299,2
+ITEM-0000788,text,es,False,False,COLL-018,"training material,digital preservation",11.76,95,29391,13,43.13,2025,118,0
+ITEM-0002606,audio,fa,False,True,COLL-005,"thesis,poster,audio interview",79.57,36,19753,40,2473.04,2018,304,0
+ITEM-0003631,video,es,False,True,COLL-009,"linguistics,poster,video lecture",307.73,28,33089,100,14109.12,2015,174,2
+ITEM-0002122,pdf,es,False,True,COLL-019,thesis,45.23,120,13767,43,1939.33,2015,218,2
+ITEM-0001875,pdf,fa,False,True,COLL-001,"thesis,digital preservation",9.55,400,16769,5,108.62,2021,227,0
+ITEM-0000812,image,zh,False,True,COLL-002,"training material,video lecture,machine learning",9.06,341,7322,20,45.13,2016,156,0
+ITEM-0000388,image,fr,False,True,COLL-018,"thesis,digital preservation,audio interview",5.19,359,15236,4,51.18,2020,14,1
+ITEM-0002883,audio,zh,False,True,COLL-004,thesis,47.21,6,6733,52,745.28,2016,137,1
+ITEM-0001176,text,ar,False,True,COLL-011,"thesis,metadata quality",7.91,216,13024,19,23.55,2024,227,0
+ITEM-0003198,text,it,False,True,COLL-004,"training material,linguistics",71.21,32,8224,55,990.77,2020,297,2
+ITEM-0002624,video,de,False,True,COLL-006,training material,69.8,156,7397,57,1648.94,2020,163,0
+ITEM-0001352,image,en,False,True,COLL-007,digital preservation,18.44,157,23565,5,113.24,2020,292,0
+ITEM-0000411,pdf,ar,False,False,COLL-007,"audio interview,digital preservation,accessibility",14.25,261,13896,10,85.18,2020,210,0
+ITEM-0004213,video,fr,False,True,COLL-015,"accessibility,audio interview",466.41,1,38370,93,4781.75,2022,335,1
+ITEM-0000110,text,en,False,False,COLL-018,training material,10.31,359,11543,13,115.95,2024,289,0
+ITEM-0004996,audio,it,False,True,COLL-015,"training material,linguistics,digital preservation",344.16,12,31533,86,11358.48,2019,294,3
+ITEM-0003430,video,ar,True,True,COLL-013,"metadata quality,poster,linguistics",76.68,95,4307,58,540.28,2024,230,0
+ITEM-0002810,audio,it,False,True,COLL-016,"poster,training material,digital preservation",68.19,158,15611,50,2028.86,2020,46,1
+ITEM-0002595,image,de,False,True,COLL-015,poster,60.17,108,6582,43,600.65,2024,214,2
+ITEM-0002837,pdf,ar,False,False,COLL-017,"policy,training material",70.7,6,13571,44,734.7,2017,326,0
+ITEM-0002373,audio,fr,False,True,COLL-016,"training material,thesis,linguistics",70.77,11,16807,58,2583.42,2025,113,0
+ITEM-0001236,pdf,de,False,True,COLL-018,"audio interview,linguistics",19.6,329,21244,10,15.88,2019,80,1
+ITEM-0002147,pdf,ar,False,False,COLL-007,"poster,digital preservation,training material",68.88,24,8081,44,555.46,2015,141,1
+ITEM-0004976,audio,fa,False,True,COLL-017,video lecture,380.79,44,38330,88,11742.39,2015,151,2
+ITEM-0000600,pdf,en,False,True,COLL-007,"digital preservation,training material,audio interview",13.19,350,15754,0,54.49,2016,78,0
+ITEM-0001435,text,de,False,True,COLL-018,"digital preservation,accessibility,policy",7.93,129,9085,3,1.7,2016,44,1
+ITEM-0004997,audio,de,False,True,COLL-016,thesis,232.87,34,34917,99,13156.4,2020,361,2
+ITEM-0000539,image,es,False,True,COLL-004,"digital preservation,machine learning",5.3,63,15769,15,81.23,2022,234,1
+ITEM-0000722,image,de,False,True,COLL-014,"poster,thesis,accessibility",18.47,325,21289,12,50.24,2020,356,1
+ITEM-0004411,audio,ar,False,False,COLL-004,"poster,policy",164.41,12,23546,92,4673.55,2019,138,1
+ITEM-0001873,text,de,True,True,COLL-005,"metadata quality,linguistics,digital preservation",7.5,377,15556,7,101.8,2020,326,0
+ITEM-0002846,audio,es,False,True,COLL-020,"accessibility,poster",48.28,52,7078,50,1191.54,2017,338,0
+ITEM-0002054,text,en,False,True,COLL-004,accessibility,76.59,99,18357,43,1897.97,2020,72,2
+ITEM-0002908,pdf,en,False,True,COLL-003,metadata quality,64.61,152,18664,52,512.84,2015,312,1
+ITEM-0002255,text,it,False,True,COLL-004,"poster,digital preservation",40.11,41,15187,46,1847.74,2018,29,2
+ITEM-0003913,audio,es,False,False,COLL-016,poster,234.58,20,25331,89,7706.36,2017,306,3
+ITEM-0000178,image,fr,False,True,COLL-003,"video lecture,machine learning,accessibility",16.78,219,22713,12,81.24,2023,173,1
+ITEM-0002891,image,de,False,True,COLL-003,"thesis,audio interview,metadata quality",42.41,141,17867,53,2057.34,2021,301,0
+ITEM-0003674,video,fr,True,True,COLL-016,"linguistics,machine learning,video lecture",125.95,19,17159,83,4023.52,2018,143,2
+ITEM-0000081,text,ar,True,True,COLL-004,"accessibility,thesis",13.96,235,12736,6,53.21,2022,252,0
+ITEM-0002562,video,ar,False,True,COLL-005,"machine learning,digital preservation",76.01,80,19045,60,2128.55,2024,121,2
+ITEM-0001724,image,es,False,True,COLL-018,"linguistics,audio interview,thesis",10.36,355,6394,19,67.01,2015,169,0
+ITEM-0001618,text,de,False,True,COLL-004,training material,15.49,267,24176,4,58.87,2018,215,0
+ITEM-0001655,text,en,False,True,COLL-018,"audio interview,metadata quality,linguistics",15.27,270,23290,18,70.75,2016,26,1
+ITEM-0002329,pdf,de,False,True,COLL-018,training material,74.89,21,18116,51,1199.39,2016,168,0
+ITEM-0004614,video,ar,False,True,COLL-007,machine learning,305.24,28,15037,83,6808.98,2022,291,3
+ITEM-0000222,text,zh,False,True,COLL-003,"policy,machine learning,video lecture",13.63,73,21900,1,21.52,2015,283,1
+ITEM-0000094,text,it,False,True,COLL-008,"poster,machine learning",8.58,226,8729,6,90.59,2016,90,1
+ITEM-0002610,pdf,ar,False,True,COLL-007,"metadata quality,video lecture",42.7,91,13951,56,227.34,2017,306,1
+ITEM-0003383,pdf,de,False,True,COLL-005,"thesis,training material,machine learning",73.38,181,7197,42,795.72,2020,289,0
+ITEM-0004416,audio,es,False,True,COLL-007,"machine learning,video lecture",420.37,47,39966,96,10795.21,2024,283,2
+ITEM-0001398,pdf,fr,True,True,COLL-003,"digital preservation,thesis",9.42,180,7547,11,62.48,2020,72,1
+ITEM-0004687,audio,zh,False,False,COLL-011,thesis,189.26,32,35790,91,6944.61,2015,217,3
+ITEM-0001293,pdf,fr,False,True,COLL-004,"video lecture,audio interview",14.52,61,24359,2,51.75,2017,204,1
+ITEM-0002165,audio,it,False,True,COLL-010,metadata quality,41.22,158,4155,41,1584.47,2019,256,0
+ITEM-0002940,pdf,fa,False,True,COLL-009,"accessibility,audio interview,poster",44.96,131,10611,50,1070.5,2020,194,0
+ITEM-0003669,video,it,False,True,COLL-003,"video lecture,linguistics",228.94,38,27212,83,13855.07,2025,101,1
+ITEM-0000813,pdf,zh,True,True,COLL-017,"training material,audio interview,metadata quality",4.87,249,614,9,110.67,2015,279,1
+ITEM-0001259,image,es,False,True,COLL-011,machine learning,4.72,159,1914,5,43.93,2020,124,1
+ITEM-0000890,image,es,False,False,COLL-001,metadata quality,3.23,243,1254,18,38.76,2018,225,0
+ITEM-0001452,image,fa,False,True,COLL-020,policy,8.43,290,12228,11,37.77,2015,155,0
+ITEM-0003317,text,zh,False,True,COLL-004,"thesis,poster,video lecture",58.51,179,6451,45,2224.79,2017,172,2
+ITEM-0002560,video,en,False,True,COLL-007,"accessibility,machine learning,metadata quality",60.03,186,10729,55,2439.53,2017,32,0
+ITEM-0003575,audio,fa,False,True,COLL-008,metadata quality,241.93,36,15655,85,6217.5,2019,329,3
+ITEM-0002681,text,fr,False,False,COLL-014,"policy,audio interview",59.07,91,14427,60,873.24,2018,365,2
+ITEM-0004652,audio,en,False,True,COLL-007,"training material,poster",202.84,19,36322,92,11063.05,2025,85,2
+ITEM-0004812,video,ar,False,True,COLL-008,"audio interview,linguistics,poster",443.79,37,31110,82,9948.26,2021,224,3
+ITEM-0004680,video,zh,False,True,COLL-019,"thesis,video lecture",307.35,5,39101,100,5179.7,2019,361,3
+ITEM-0002965,pdf,fr,False,True,COLL-016,"thesis,machine learning,poster",64.04,82,16583,48,755.35,2022,172,2
+ITEM-0002673,image,fa,True,True,COLL-002,"poster,thesis,digital preservation",40.97,95,8149,45,2338.05,2017,81,2
+ITEM-0000562,pdf,it,False,True,COLL-017,accessibility,16.13,314,20032,13,110.16,2025,213,1
+ITEM-0002779,pdf,es,False,True,COLL-006,"linguistics,poster",73.23,87,7805,50,2529.11,2023,19,1
+ITEM-0002949,audio,de,False,True,COLL-016,"metadata quality,policy,linguistics",79.98,160,15807,54,525.79,2022,260,0
+ITEM-0002818,text,fr,False,False,COLL-018,"metadata quality,policy",72.5,44,16286,51,1996.74,2015,312,1
+ITEM-0002759,image,fa,False,True,COLL-017,"poster,digital preservation",41.93,48,10485,52,2364.83,2024,47,2
+ITEM-0001757,text,de,False,True,COLL-014,"thesis,digital preservation",8.83,210,15321,18,88.81,2024,264,0
+ITEM-0000725,pdf,ar,False,True,COLL-001,"metadata quality,digital preservation,poster",7.75,294,7417,3,79.53,2015,124,0
+ITEM-0000220,pdf,de,True,True,COLL-005,machine learning,15.58,166,8779,18,80.89,2015,181,0
+ITEM-0004140,video,ar,False,True,COLL-013,linguistics,201.22,1,33760,83,12147.23,2024,223,1
+ITEM-0003958,audio,ar,False,False,COLL-001,poster,124.27,46,37180,84,9167.25,2024,168,2
+ITEM-0001589,pdf,en,True,True,COLL-017,policy,1.69,185,213,19,20.75,2019,212,1
+ITEM-0003348,text,es,False,False,COLL-001,"machine learning,linguistics,training material",49.01,128,9929,56,2586.32,2017,91,1
+ITEM-0003971,audio,ar,False,True,COLL-007,"accessibility,poster,linguistics",191.1,5,19735,89,3359.97,2019,11,3
+ITEM-0004708,audio,fr,False,True,COLL-017,"digital preservation,policy,audio interview",278.67,33,36900,89,11585.63,2023,147,3
+ITEM-0000044,image,es,False,True,COLL-010,poster,13.55,181,20238,18,113.73,2016,323,1
+ITEM-0003002,video,it,False,True,COLL-005,"accessibility,policy,linguistics",77.61,72,11886,58,1658.53,2019,149,1
+ITEM-0000211,pdf,fr,False,True,COLL-015,accessibility,10.84,275,10377,0,73.24,2023,38,1
+ITEM-0000678,image,de,False,True,COLL-002,machine learning,9.18,317,15254,18,58.85,2021,291,1
+ITEM-0000355,text,zh,False,True,COLL-001,accessibility,4.16,61,1195,0,18.26,2016,54,0
+ITEM-0001434,image,it,False,True,COLL-017,thesis,18.19,311,6492,17,117.13,2019,133,0
+ITEM-0000950,pdf,de,False,True,COLL-018,"machine learning,digital preservation,training material",13.25,231,23823,6,92.39,2017,43,0
+ITEM-0002844,video,es,False,True,COLL-019,"machine learning,poster",54.34,98,9326,54,403.31,2022,218,1
+ITEM-0000578,image,ar,False,True,COLL-001,"metadata quality,digital preservation",15.84,277,23990,7,99.56,2024,19,0
+ITEM-0003929,video,fr,False,True,COLL-007,"audio interview,video lecture",271.4,29,33605,84,10828.62,2020,185,2
+ITEM-0000545,image,zh,False,True,COLL-010,"machine learning,training material,accessibility",9.63,203,20650,2,108.86,2016,159,0
+ITEM-0000368,pdf,es,False,True,COLL-013,thesis,16.56,86,29061,8,63.48,2015,320,1
+ITEM-0001613,pdf,es,False,False,COLL-005,"accessibility,machine learning",12.59,122,16949,3,29.51,2018,223,0
+ITEM-0003551,video,fr,False,True,COLL-020,metadata quality,444.57,13,17710,86,8807.91,2025,193,3
