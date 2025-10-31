@@ -1,3 +1,5 @@
+from itertools import combinations
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
@@ -96,14 +98,17 @@ def main():
     x = pd.concat([df[numerical_features], cat_df], axis=1)
 
     cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=random_state)
+
+    # BASELINE MODEL with all features
     baseline_model = train_and_eval_model(x, y, cv, model_name="baseline")
 
-    print ("BASELINE MODEL RESULTS")
+    print ("BASELINE MODEL RESULTS with all features")
     print (f"Accuracy: {baseline_model['accuracy']}")
     print (baseline_model["confusion_matrix"])
     print (baseline_model["classification_report"])
 
-    # Feature Selection
+    # Feature Selection using Pearson product-moment correlation
+    # coefficients between variables
     correlations = {}
     for col in x.columns:
         if x[col].std() == 0:
@@ -111,18 +116,45 @@ def main():
         else:
             corr_val = np.corrcoef(x[col], y)[0, 1]
         correlations[col] = abs(corr_val)
+    ranked_corr = sorted(correlations.items(), key=lambda v: v[1], reverse=True)
+    print(f"Ranked feature correlations: {ranked_corr}")
 
-    ranked_corr = sorted(correlations.items(), key=lambda item: item[1], reverse=True)
+    # MODEL with top 3 correlated features
     top_features = [v[0] for v in ranked_corr[:3]]
-
     x_corr = x[top_features]
 
-    baseline_model = train_and_eval_model(x_corr, y, cv, model_name="baseline")
+    top3_model = train_and_eval_model(x_corr, y, cv, model_name="baseline")
 
-    print ("BASELINE MODEL RESULTS")
-    print (f"Accuracy: {baseline_model['accuracy']}")
-    print (baseline_model["confusion_matrix"])
-    print (baseline_model["classification_report"])
+    print ("MODEL RESULTS - top 3 correlated features")
+    print(f"Features: {top_features}")
+    print (f"Accuracy: {top3_model['accuracy']}")
+    print (top3_model["confusion_matrix"])
+    print (top3_model["classification_report"])
+
+    # MODEL with best accuracy metric over all
+    # combinations of features
+
+    best_model = {"accuracy": 0.0}
+    best_features = None
+
+    all_corr = [v[0] for v in ranked_corr[:10]]
+    for r in range(3, len(all_corr) + 1):
+        print(f"{r=}")
+
+        for features in combinations(all_corr, r):
+            x_corr = x[list(features)]
+
+            test_model = train_and_eval_model(x_corr, y, cv, model_name="baseline")
+
+            if test_model["accuracy"] > best_model['accuracy']:
+                best_model = test_model
+                best_features = features
+
+    print ("MODEL RESULTS - best accuracy over combinations of top 10 correlated features")
+    print(f"Features: {best_features}")
+    print (f"Accuracy: {best_model['accuracy']}")
+    print (best_model["confusion_matrix"])
+    print (best_model["classification_report"])
 
 
 if __name__ == "__main__":
